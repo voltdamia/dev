@@ -1,0 +1,58 @@
+html
+{
+
+    background-color: rgb(172, 148, 103);
+
+}
+
+
+.topbar a
+{
+
+    font-family:'Franklin Gothic Medium';
+
+    font-size: 40px;
+
+    color: black;
+
+    background: none;
+
+    text-decoration: none;
+
+    display: flex;
+
+    flex-direction: row;
+
+    margin: 20px;
+
+}
+
+.navh1
+{
+
+    font-size: 50px;
+
+    color: rgb(38, 25, 1);
+
+    font-family: New Rocker;
+
+    justify-content: left;
+
+}
+
+nav
+{
+
+    background: linear-gradient(to top, rgb(233, 153, 4), rgb(146, 96, 2));
+
+    opacity: 0.72;
+
+    background-size: 100px;
+
+    border-bottom-left-radius: 10px;
+
+    border-bottom-right-radius: 10px;
+
+    border-bottom: 3px solid black;
+
+}
