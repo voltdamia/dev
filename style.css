@@ -55,4 +55,10 @@ nav
 
     border-bottom: 3px solid black;
 
+    display: flex;
+
+    margin: 0;
+
+    flex-direction: row;
+
 }
