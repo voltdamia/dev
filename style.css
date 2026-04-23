@@ -34,7 +34,7 @@ html
 
     color: rgb(38, 25, 1);
 
-    font-family: New Rocker;
+    font-family: 'UnifrakturMaguntia';
 
     justify-content: left;
 
@@ -66,5 +66,7 @@ nav
     left: 0;
 
     right: 0;
+
+    justify-content: left;
 
 }
